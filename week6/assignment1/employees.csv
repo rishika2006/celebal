@@ -1,0 +1,9 @@
+﻿EmployeeID,Name,Department,Age,Salary,Experience
+101,Rishi,IT,22,50000,1
+102,Rahul,HR,28,42000,4
+103,Priya,Finance,31,65000,6
+104,Aman,IT,25,55000,3
+105,Neha,HR,27,,5
+106,Karan,Sales,30,48000,4
+107,Anjali,IT,24,52000,2
+108,Rohit,Finance,35,75000,8
