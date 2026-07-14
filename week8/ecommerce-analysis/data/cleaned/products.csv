@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+PROD0001,Lamp,Home,Lamp,4801
+PROD0002,Hoodie,Clothing,Hoodie,2675
+PROD0003,Perfume,Beauty,Perfume,1029
+PROD0004,Speaker,Electronics,Speaker,4341
+PROD0005,History Book,Books,History Book,2232
+PROD0006,Shampoo,Beauty,Shampoo,2439
+PROD0007,Shampoo,Beauty,Shampoo,1211
+PROD0008,Mouse,Electronics,Mouse,3746
+PROD0009,Headphones,Electronics,Headphones,2718
+PROD0010,Perfume,Beauty,Perfume,4605
+PROD0011,Tennis Racket,Sports,Tennis Racket,1390
+PROD0012,Lipstick,Beauty,Lipstick,4267
+PROD0013,T-Shirt,Clothing,T-Shirt,1237
+PROD0014,Dress,Clothing,Dress,4638
+PROD0015,Tennis Racket,Sports,Tennis Racket,4619
+PROD0016,Hoodie,Clothing,Hoodie,638
+PROD0017,Lamp,Home,Lamp,4021
+PROD0018,Yoga Mat,Sports,Yoga Mat,4809
+PROD0019,Mobile Phone,Electronics,Mobile Phone,707
+PROD0020,Science Book,Books,Science Book,2922
+PROD0021,Hoodie,Clothing,Hoodie,1590
+PROD0022,Dress,Clothing,Dress,553
+PROD0023,Monitor,Electronics,Monitor,1448
+PROD0024,Jacket,Clothing,Jacket,1947
+PROD0025,Curtains,Home,Curtains,746
+PROD0026,Table,Home,Table,4612
+PROD0027,Table,Home,Table,4470
+PROD0028,Monitor,Electronics,Monitor,4948
+PROD0029,Cricket Bat,Sports,Cricket Bat,2865
+PROD0030,Football,Sports,Football,332
+PROD0031,Laptop,Electronics,Laptop,4824
+PROD0032,Bed,Home,Bed,4786
+PROD0033,History Book,Books,History Book,4179
+PROD0034,Moisturizer,Beauty,Moisturizer,2574
+PROD0035,Biography,Books,Biography,3426
+PROD0036,Lamp,Home,Lamp,590
+PROD0037,Dress,Clothing,Dress,3904
+PROD0038,Jacket,Clothing,Jacket,2660
+PROD0039,Perfume,Beauty,Perfume,2929
+PROD0040,Biography,Books,Biography,4318
+PROD0041,Football,Sports,Football,3921
+PROD0042,Keyboard,Electronics,Keyboard,1254
+PROD0043,Laptop,Electronics,Laptop,3246
+PROD0044,Yoga Mat,Sports,Yoga Mat,1408
+PROD0045,Curtains,Home,Curtains,1655
+PROD0046,Dress,Clothing,Dress,3924
+PROD0047,Cookbook,Books,Cookbook,837
+PROD0048,History Book,Books,History Book,2072
+PROD0049,Hoodie,Clothing,Hoodie,514
+PROD0050,Lamp,Home,Lamp,3955
+PROD0051,Curtains,Home,Curtains,980
+PROD0052,Biography,Books,Biography,3096
+PROD0053,Cookbook,Books,Cookbook,519
+PROD0054,Dumbbell,Sports,Dumbbell,4632
+PROD0055,Chair,Home,Chair,3789
+PROD0056,Tennis Racket,Sports,Tennis Racket,1073
+PROD0057,T-Shirt,Clothing,T-Shirt,2877
+PROD0058,Tennis Racket,Sports,Tennis Racket,1730
+PROD0059,Dumbbell,Sports,Dumbbell,429
+PROD0060,Laptop,Electronics,Laptop,2828
+PROD0061,History Book,Books,History Book,4323
+PROD0062,Jacket,Clothing,Jacket,2709
+PROD0063,Dress,Clothing,Dress,2551
+PROD0064,Tennis Racket,Sports,Tennis Racket,4275
+PROD0065,Yoga Mat,Sports,Yoga Mat,2555
+PROD0066,Novel,Books,Novel,997
+PROD0067,History Book,Books,History Book,318
+PROD0068,Yoga Mat,Sports,Yoga Mat,4838
+PROD0069,Cricket Bat,Sports,Cricket Bat,4880
+PROD0070,Biography,Books,Biography,3214
+PROD0071,Shoes,Clothing,Shoes,4790
+PROD0072,Face Wash,Beauty,Face Wash,3712
+PROD0073,Lamp,Home,Lamp,1770
+PROD0074,History Book,Books,History Book,3963
+PROD0075,Face Wash,Beauty,Face Wash,4349
+PROD0076,Hoodie,Clothing,Hoodie,4018
+PROD0077,Yoga Mat,Sports,Yoga Mat,1518
+PROD0078,History Book,Books,History Book,3002
+PROD0079,Perfume,Beauty,Perfume,1675
+PROD0080,Jacket,Clothing,Jacket,1942
+PROD0081,Sofa,Home,Sofa,4105
+PROD0082,Lamp,Home,Lamp,2340
+PROD0083,Chair,Home,Chair,4549
+PROD0084,Science Book,Books,Science Book,1299
+PROD0085,Chair,Home,Chair,747
+PROD0086,Lamp,Home,Lamp,4024
+PROD0087,Jeans,Clothing,Jeans,2321
+PROD0088,Tennis Racket,Sports,Tennis Racket,4907
+PROD0089,Jeans,Clothing,Jeans,4450
+PROD0090,Shoes,Clothing,Shoes,920
+PROD0091,Cookbook,Books,Cookbook,923
+PROD0092,Lipstick,Beauty,Lipstick,4608
+PROD0093,Dress,Clothing,Dress,3996
+PROD0094,Biography,Books,Biography,2453
+PROD0095,Sofa,Home,Sofa,832
+PROD0096,Moisturizer,Beauty,Moisturizer,405
+PROD0097,Dress,Clothing,Dress,1540
+PROD0098,Headphones,Electronics,Headphones,4158
+PROD0099,Shoes,Clothing,Shoes,2471
+PROD0100,Laptop,Electronics,Laptop,979
+PROD0101,Sofa,Home,Sofa,4550
+PROD0102,Yoga Mat,Sports,Yoga Mat,1199
+PROD0103,Yoga Mat,Sports,Yoga Mat,1022
+PROD0104,Table,Home,Table,2207
+PROD0105,Lipstick,Beauty,Lipstick,2861
+PROD0106,Curtains,Home,Curtains,1682
+PROD0107,Hoodie,Clothing,Hoodie,3421
+PROD0108,History Book,Books,History Book,3383
+PROD0109,Face Wash,Beauty,Face Wash,1251
+PROD0110,Cookbook,Books,Cookbook,155
+PROD0111,Lamp,Home,Lamp,2287
+PROD0112,Sofa,Home,Sofa,4793
+PROD0113,Keyboard,Electronics,Keyboard,2035
+PROD0114,Speaker,Electronics,Speaker,2613
+PROD0115,Dress,Clothing,Dress,2647
+PROD0116,Face Wash,Beauty,Face Wash,2516
+PROD0117,Curtains,Home,Curtains,1194
+PROD0118,Biography,Books,Biography,3160
+PROD0119,History Book,Books,History Book,4503
+PROD0120,Lipstick,Beauty,Lipstick,4980
+PROD0121,Monitor,Electronics,Monitor,3063
+PROD0122,Monitor,Electronics,Monitor,4586
+PROD0123,Cricket Bat,Sports,Cricket Bat,1327
+PROD0124,Jacket,Clothing,Jacket,3719
+PROD0125,Speaker,Electronics,Speaker,4877
+PROD0126,Novel,Books,Novel,3749
+PROD0127,Mouse,Electronics,Mouse,3503
+PROD0128,History Book,Books,History Book,3887
+PROD0129,Perfume,Beauty,Perfume,3343
+PROD0130,Chair,Home,Chair,4837
+PROD0131,Laptop,Electronics,Laptop,622
+PROD0132,Football,Sports,Football,665
+PROD0133,Novel,Books,Novel,1574
+PROD0134,Shoes,Clothing,Shoes,3543
+PROD0135,Lamp,Home,Lamp,3192
+PROD0136,Novel,Books,Novel,4517
+PROD0137,Shoes,Clothing,Shoes,1071
+PROD0138,Hoodie,Clothing,Hoodie,1143
+PROD0139,Lipstick,Beauty,Lipstick,286
+PROD0140,Lamp,Home,Lamp,4560
+PROD0141,History Book,Books,History Book,1981
+PROD0142,Dress,Clothing,Dress,2358
+PROD0143,Shoes,Clothing,Shoes,363
+PROD0144,Shampoo,Beauty,Shampoo,228
+PROD0145,Jeans,Clothing,Jeans,4965
+PROD0146,Mouse,Electronics,Mouse,498
+PROD0147,Shoes,Clothing,Shoes,3695
+PROD0148,Hoodie,Clothing,Hoodie,562
+PROD0149,Hoodie,Clothing,Hoodie,2018
+PROD0150,Moisturizer,Beauty,Moisturizer,4998
+PROD0151,Perfume,Beauty,Perfume,1273
+PROD0152,Moisturizer,Beauty,Moisturizer,2561
+PROD0153,Chair,Home,Chair,4946
+PROD0154,Lipstick,Beauty,Lipstick,3599
+PROD0155,Yoga Mat,Sports,Yoga Mat,2921
+PROD0156,Shampoo,Beauty,Shampoo,2711
+PROD0157,Shampoo,Beauty,Shampoo,2556
+PROD0158,Biography,Books,Biography,3979
+PROD0159,Jeans,Clothing,Jeans,1282
+PROD0160,Novel,Books,Novel,3512
+PROD0161,Dumbbell,Sports,Dumbbell,2089
+PROD0162,Table,Home,Table,747
+PROD0163,Cookbook,Books,Cookbook,1660
+PROD0164,Keyboard,Electronics,Keyboard,423
+PROD0165,Mobile Phone,Electronics,Mobile Phone,4913
+PROD0166,Moisturizer,Beauty,Moisturizer,1811
+PROD0167,Sofa,Home,Sofa,225
+PROD0168,Jeans,Clothing,Jeans,1061
+PROD0169,Shampoo,Beauty,Shampoo,1775
+PROD0170,Biography,Books,Biography,2418
+PROD0171,Science Book,Books,Science Book,3043
+PROD0172,Sofa,Home,Sofa,4173
+PROD0173,Novel,Books,Novel,3946
+PROD0174,Table,Home,Table,3490
+PROD0175,Monitor,Electronics,Monitor,1295
+PROD0176,Keyboard,Electronics,Keyboard,4884
+PROD0177,Yoga Mat,Sports,Yoga Mat,1707
+PROD0178,Table,Home,Table,2113
+PROD0179,History Book,Books,History Book,2865
+PROD0180,Lamp,Home,Lamp,4118
+PROD0181,Biography,Books,Biography,2985
+PROD0182,Jeans,Clothing,Jeans,4100
+PROD0183,Hoodie,Clothing,Hoodie,581
+PROD0184,Football,Sports,Football,708
+PROD0185,Face Wash,Beauty,Face Wash,3478
+PROD0186,Shoes,Clothing,Shoes,1337
+PROD0187,Mobile Phone,Electronics,Mobile Phone,3157
+PROD0188,Monitor,Electronics,Monitor,4058
+PROD0189,Shampoo,Beauty,Shampoo,4459
+PROD0190,Yoga Mat,Sports,Yoga Mat,4436
+PROD0191,Perfume,Beauty,Perfume,2448
+PROD0192,Monitor,Electronics,Monitor,3627
+PROD0193,T-Shirt,Clothing,T-Shirt,4395
+PROD0194,Jeans,Clothing,Jeans,4412
+PROD0195,Sofa,Home,Sofa,3351
+PROD0196,Keyboard,Electronics,Keyboard,3860
+PROD0197,Cricket Bat,Sports,Cricket Bat,1950
+PROD0198,Bed,Home,Bed,760
+PROD0199,Face Wash,Beauty,Face Wash,3206
+PROD0200,History Book,Books,History Book,177
+PROD0201,Lipstick,Beauty,Lipstick,3654
+PROD0202,Perfume,Beauty,Perfume,881
+PROD0203,Football,Sports,Football,4743
+PROD0204,Cookbook,Books,Cookbook,709
+PROD0205,Perfume,Beauty,Perfume,4716
+PROD0206,Face Wash,Beauty,Face Wash,2676
+PROD0207,Mobile Phone,Electronics,Mobile Phone,3362
+PROD0208,Keyboard,Electronics,Keyboard,2069
+PROD0209,Yoga Mat,Sports,Yoga Mat,4528
+PROD0210,Lamp,Home,Lamp,1246
+PROD0211,Face Wash,Beauty,Face Wash,2933
+PROD0212,Laptop,Electronics,Laptop,722
+PROD0213,Curtains,Home,Curtains,4979
+PROD0214,Cookbook,Books,Cookbook,2339
+PROD0215,Science Book,Books,Science Book,4630
+PROD0216,Science Book,Books,Science Book,4899
+PROD0217,Shampoo,Beauty,Shampoo,2519
+PROD0218,Shoes,Clothing,Shoes,2295
+PROD0219,Dress,Clothing,Dress,1363
+PROD0220,Shampoo,Beauty,Shampoo,972
+PROD0221,Laptop,Electronics,Laptop,3743
+PROD0222,Sofa,Home,Sofa,815
+PROD0223,Dress,Clothing,Dress,4644
+PROD0224,Yoga Mat,Sports,Yoga Mat,834
+PROD0225,Curtains,Home,Curtains,4999
+PROD0226,Lamp,Home,Lamp,3489
+PROD0227,Novel,Books,Novel,4683
+PROD0228,Hoodie,Clothing,Hoodie,3218
+PROD0229,Jeans,Clothing,Jeans,2298
+PROD0230,Biography,Books,Biography,3660
+PROD0231,Lamp,Home,Lamp,730
+PROD0232,Sofa,Home,Sofa,4161
+PROD0233,Dumbbell,Sports,Dumbbell,976
+PROD0234,Jacket,Clothing,Jacket,3341
+PROD0235,Curtains,Home,Curtains,2799
+PROD0236,Cookbook,Books,Cookbook,4969
+PROD0237,Jacket,Clothing,Jacket,1745
+PROD0238,Cookbook,Books,Cookbook,3362
+PROD0239,Sofa,Home,Sofa,4122
+PROD0240,Cricket Bat,Sports,Cricket Bat,2396
+PROD0241,Cookbook,Books,Cookbook,4719
+PROD0242,Hoodie,Clothing,Hoodie,1573
+PROD0243,Moisturizer,Beauty,Moisturizer,3881
+PROD0244,Lipstick,Beauty,Lipstick,2486
+PROD0245,Face Wash,Beauty,Face Wash,3451
+PROD0246,Shampoo,Beauty,Shampoo,2580
+PROD0247,Jacket,Clothing,Jacket,3566
+PROD0248,Novel,Books,Novel,4998
+PROD0249,History Book,Books,History Book,4250
+PROD0250,Shampoo,Beauty,Shampoo,3045
+PROD0251,Moisturizer,Beauty,Moisturizer,796
+PROD0252,Headphones,Electronics,Headphones,3008
+PROD0253,Shoes,Clothing,Shoes,4713
+PROD0254,Shampoo,Beauty,Shampoo,2816
+PROD0255,Novel,Books,Novel,2219
+PROD0256,Hoodie,Clothing,Hoodie,4671
+PROD0257,Dumbbell,Sports,Dumbbell,3164
+PROD0258,Science Book,Books,Science Book,4921
+PROD0259,Moisturizer,Beauty,Moisturizer,301
+PROD0260,Novel,Books,Novel,803
+PROD0261,Headphones,Electronics,Headphones,1260
+PROD0262,Sofa,Home,Sofa,1794
+PROD0263,Yoga Mat,Sports,Yoga Mat,899
+PROD0264,Science Book,Books,Science Book,2559
+PROD0265,Headphones,Electronics,Headphones,285
+PROD0266,Bed,Home,Bed,1446
+PROD0267,Lipstick,Beauty,Lipstick,4621
+PROD0268,Jacket,Clothing,Jacket,3885
+PROD0269,Dress,Clothing,Dress,1626
+PROD0270,Shampoo,Beauty,Shampoo,1716
+PROD0271,History Book,Books,History Book,136
+PROD0272,Lipstick,Beauty,Lipstick,612
+PROD0273,Football,Sports,Football,4498
+PROD0274,Jacket,Clothing,Jacket,3848
+PROD0275,Keyboard,Electronics,Keyboard,4109
+PROD0276,Tennis Racket,Sports,Tennis Racket,3315
+PROD0277,Football,Sports,Football,3850
+PROD0278,Cricket Bat,Sports,Cricket Bat,2536
+PROD0279,Dumbbell,Sports,Dumbbell,1197
+PROD0280,Chair,Home,Chair,1058
+PROD0281,Jacket,Clothing,Jacket,4284
+PROD0282,Science Book,Books,Science Book,4808
+PROD0283,Science Book,Books,Science Book,4502
+PROD0284,Lipstick,Beauty,Lipstick,4111
+PROD0285,Table,Home,Table,3794
+PROD0286,Football,Sports,Football,178
+PROD0287,Biography,Books,Biography,3245
+PROD0288,Dumbbell,Sports,Dumbbell,3451
+PROD0289,Shampoo,Beauty,Shampoo,3736
+PROD0290,Biography,Books,Biography,352
+PROD0291,Jacket,Clothing,Jacket,1941
+PROD0292,Tennis Racket,Sports,Tennis Racket,3846
+PROD0293,Yoga Mat,Sports,Yoga Mat,1027
+PROD0294,Football,Sports,Football,4549
+PROD0295,Curtains,Home,Curtains,440
+PROD0296,Shampoo,Beauty,Shampoo,3582
+PROD0297,Speaker,Electronics,Speaker,2127
+PROD0298,Chair,Home,Chair,2955
+PROD0299,Mouse,Electronics,Mouse,1061
+PROD0300,Jeans,Clothing,Jeans,4916
+PROD0301,Perfume,Beauty,Perfume,3607
+PROD0302,Hoodie,Clothing,Hoodie,1792
+PROD0303,T-Shirt,Clothing,T-Shirt,4460
+PROD0304,Curtains,Home,Curtains,2751
+PROD0305,Perfume,Beauty,Perfume,2290
+PROD0306,Football,Sports,Football,3471
+PROD0307,Keyboard,Electronics,Keyboard,1139
+PROD0308,Lipstick,Beauty,Lipstick,2738
+PROD0309,Shoes,Clothing,Shoes,1264
+PROD0310,Tennis Racket,Sports,Tennis Racket,3173
+PROD0311,Novel,Books,Novel,862
+PROD0312,History Book,Books,History Book,3123
+PROD0313,Science Book,Books,Science Book,120
+PROD0314,Face Wash,Beauty,Face Wash,3855
+PROD0315,Perfume,Beauty,Perfume,4478
+PROD0316,Biography,Books,Biography,1835
+PROD0317,Cookbook,Books,Cookbook,2423
+PROD0318,Curtains,Home,Curtains,4737
+PROD0319,Cookbook,Books,Cookbook,496
+PROD0320,Laptop,Electronics,Laptop,3864
+PROD0321,Laptop,Electronics,Laptop,1394
+PROD0322,Science Book,Books,Science Book,3604
+PROD0323,Shoes,Clothing,Shoes,2572
+PROD0324,Jacket,Clothing,Jacket,3052
+PROD0325,Chair,Home,Chair,1455
+PROD0326,Mouse,Electronics,Mouse,2018
+PROD0327,Novel,Books,Novel,108
+PROD0328,Dress,Clothing,Dress,4963
+PROD0329,Hoodie,Clothing,Hoodie,176
+PROD0330,Speaker,Electronics,Speaker,1087
+PROD0331,Biography,Books,Biography,1975
+PROD0332,Novel,Books,Novel,939
+PROD0333,Keyboard,Electronics,Keyboard,2551
+PROD0334,Dress,Clothing,Dress,1190
+PROD0335,Lipstick,Beauty,Lipstick,4714
+PROD0336,Monitor,Electronics,Monitor,3705
+PROD0337,Bed,Home,Bed,1340
+PROD0338,History Book,Books,History Book,1879
+PROD0339,Laptop,Electronics,Laptop,1108
+PROD0340,Yoga Mat,Sports,Yoga Mat,3617
+PROD0341,Table,Home,Table,790
+PROD0342,Hoodie,Clothing,Hoodie,2434
+PROD0343,Face Wash,Beauty,Face Wash,2571
+PROD0344,Hoodie,Clothing,Hoodie,1645
+PROD0345,Shampoo,Beauty,Shampoo,547
+PROD0346,Dress,Clothing,Dress,2074
+PROD0347,History Book,Books,History Book,198
+PROD0348,Sofa,Home,Sofa,4756
+PROD0349,Cookbook,Books,Cookbook,1515
+PROD0350,Novel,Books,Novel,653
+PROD0351,Keyboard,Electronics,Keyboard,595
+PROD0352,History Book,Books,History Book,4204
+PROD0353,Science Book,Books,Science Book,775
+PROD0354,Moisturizer,Beauty,Moisturizer,1350
+PROD0355,Chair,Home,Chair,4288
+PROD0356,Jeans,Clothing,Jeans,3300
+PROD0357,Football,Sports,Football,3683
+PROD0358,Lipstick,Beauty,Lipstick,806
+PROD0359,Novel,Books,Novel,550
+PROD0360,Bed,Home,Bed,1538
+PROD0361,Laptop,Electronics,Laptop,192
+PROD0362,Dress,Clothing,Dress,4384
+PROD0363,Tennis Racket,Sports,Tennis Racket,1139
+PROD0364,Perfume,Beauty,Perfume,1067
+PROD0365,Keyboard,Electronics,Keyboard,2328
+PROD0366,Football,Sports,Football,4823
+PROD0367,Face Wash,Beauty,Face Wash,4284
+PROD0368,Chair,Home,Chair,4743
+PROD0369,Jacket,Clothing,Jacket,942
+PROD0370,Football,Sports,Football,4268
+PROD0371,Laptop,Electronics,Laptop,200
+PROD0372,T-Shirt,Clothing,T-Shirt,3237
+PROD0373,Jeans,Clothing,Jeans,389
+PROD0374,Yoga Mat,Sports,Yoga Mat,2133
+PROD0375,Cookbook,Books,Cookbook,738
+PROD0376,Tennis Racket,Sports,Tennis Racket,531
+PROD0377,Jeans,Clothing,Jeans,476
+PROD0378,Novel,Books,Novel,2412
+PROD0379,Sofa,Home,Sofa,3841
+PROD0380,Keyboard,Electronics,Keyboard,4718
+PROD0381,Bed,Home,Bed,3900
+PROD0382,Curtains,Home,Curtains,1700
+PROD0383,Moisturizer,Beauty,Moisturizer,2108
+PROD0384,T-Shirt,Clothing,T-Shirt,295
+PROD0385,Hoodie,Clothing,Hoodie,178
+PROD0386,Chair,Home,Chair,3182
+PROD0387,Perfume,Beauty,Perfume,4440
+PROD0388,Dress,Clothing,Dress,590
+PROD0389,Shoes,Clothing,Shoes,459
+PROD0390,Hoodie,Clothing,Hoodie,3151
+PROD0391,Novel,Books,Novel,4240
+PROD0392,Shoes,Clothing,Shoes,713
+PROD0393,Dumbbell,Sports,Dumbbell,1170
+PROD0394,Jacket,Clothing,Jacket,2680
+PROD0395,Cookbook,Books,Cookbook,2327
+PROD0396,T-Shirt,Clothing,T-Shirt,1215
+PROD0397,Football,Sports,Football,1446
+PROD0398,Science Book,Books,Science Book,1089
+PROD0399,Tennis Racket,Sports,Tennis Racket,1800
+PROD0400,Cookbook,Books,Cookbook,1082
+PROD0401,Mobile Phone,Electronics,Mobile Phone,2592
+PROD0402,Moisturizer,Beauty,Moisturizer,2785
+PROD0403,T-Shirt,Clothing,T-Shirt,3014
+PROD0404,History Book,Books,History Book,2548
+PROD0405,Table,Home,Table,3412
+PROD0406,History Book,Books,History Book,2146
+PROD0407,Mouse,Electronics,Mouse,1245
+PROD0408,Laptop,Electronics,Laptop,1920
+PROD0409,Jeans,Clothing,Jeans,3149
+PROD0410,Face Wash,Beauty,Face Wash,2220
+PROD0411,Laptop,Electronics,Laptop,1719
+PROD0412,Shampoo,Beauty,Shampoo,853
+PROD0413,Chair,Home,Chair,3876
+PROD0414,Mobile Phone,Electronics,Mobile Phone,3648
+PROD0415,Shampoo,Beauty,Shampoo,3235
+PROD0416,Shampoo,Beauty,Shampoo,1858
+PROD0417,Jacket,Clothing,Jacket,1317
+PROD0418,Monitor,Electronics,Monitor,2113
+PROD0419,Perfume,Beauty,Perfume,4611
+PROD0420,Novel,Books,Novel,3237
+PROD0421,Dress,Clothing,Dress,4407
+PROD0422,Shoes,Clothing,Shoes,4553
+PROD0423,Mouse,Electronics,Mouse,3041
+PROD0424,History Book,Books,History Book,2918
+PROD0425,Dumbbell,Sports,Dumbbell,2315
+PROD0426,T-Shirt,Clothing,T-Shirt,1894
+PROD0427,Headphones,Electronics,Headphones,579
+PROD0428,History Book,Books,History Book,4884
+PROD0429,Jeans,Clothing,Jeans,2075
+PROD0430,Curtains,Home,Curtains,558
+PROD0431,Hoodie,Clothing,Hoodie,3281
+PROD0432,Table,Home,Table,4953
+PROD0433,Bed,Home,Bed,4946
+PROD0434,Speaker,Electronics,Speaker,4750
+PROD0435,Cricket Bat,Sports,Cricket Bat,1642
+PROD0436,History Book,Books,History Book,4117
+PROD0437,Laptop,Electronics,Laptop,1892
+PROD0438,Monitor,Electronics,Monitor,2817
+PROD0439,Cricket Bat,Sports,Cricket Bat,2891
+PROD0440,Lipstick,Beauty,Lipstick,2750
+PROD0441,Laptop,Electronics,Laptop,1260
+PROD0442,Headphones,Electronics,Headphones,3089
+PROD0443,Keyboard,Electronics,Keyboard,3340
+PROD0444,Football,Sports,Football,2742
+PROD0445,Jeans,Clothing,Jeans,3678
+PROD0446,Shampoo,Beauty,Shampoo,1527
+PROD0447,Moisturizer,Beauty,Moisturizer,3023
+PROD0448,Shoes,Clothing,Shoes,1536
+PROD0449,Cookbook,Books,Cookbook,2512
+PROD0450,Jeans,Clothing,Jeans,4792
+PROD0451,History Book,Books,History Book,2706
+PROD0452,Cricket Bat,Sports,Cricket Bat,952
+PROD0453,Biography,Books,Biography,737
+PROD0454,Jacket,Clothing,Jacket,1475
+PROD0455,Face Wash,Beauty,Face Wash,2850
+PROD0456,Novel,Books,Novel,2144
+PROD0457,Face Wash,Beauty,Face Wash,985
+PROD0458,Face Wash,Beauty,Face Wash,3689
+PROD0459,Shampoo,Beauty,Shampoo,3491
+PROD0460,Science Book,Books,Science Book,3174
+PROD0461,Headphones,Electronics,Headphones,4835
+PROD0462,Lipstick,Beauty,Lipstick,703
+PROD0463,Keyboard,Electronics,Keyboard,2239
+PROD0464,Laptop,Electronics,Laptop,3175
+PROD0465,Shoes,Clothing,Shoes,862
+PROD0466,Curtains,Home,Curtains,4054
+PROD0467,Face Wash,Beauty,Face Wash,1451
+PROD0468,Yoga Mat,Sports,Yoga Mat,929
+PROD0469,Table,Home,Table,3452
+PROD0470,Moisturizer,Beauty,Moisturizer,4524
+PROD0471,Bed,Home,Bed,2045
+PROD0472,Laptop,Electronics,Laptop,4602
+PROD0473,Biography,Books,Biography,131
+PROD0474,Novel,Books,Novel,4034
+PROD0475,T-Shirt,Clothing,T-Shirt,1499
+PROD0476,Perfume,Beauty,Perfume,3979
+PROD0477,Keyboard,Electronics,Keyboard,3957
+PROD0478,Cookbook,Books,Cookbook,4557
+PROD0479,Biography,Books,Biography,3224
+PROD0480,Table,Home,Table,2256
+PROD0481,Science Book,Books,Science Book,2300
+PROD0482,Football,Sports,Football,892
+PROD0483,Speaker,Electronics,Speaker,4535
+PROD0484,History Book,Books,History Book,599
+PROD0485,History Book,Books,History Book,4486
+PROD0486,Shampoo,Beauty,Shampoo,2030
+PROD0487,Cookbook,Books,Cookbook,384
+PROD0488,Dumbbell,Sports,Dumbbell,4781
+PROD0489,Moisturizer,Beauty,Moisturizer,3778
+PROD0490,Jeans,Clothing,Jeans,1678
+PROD0491,T-Shirt,Clothing,T-Shirt,3666
+PROD0492,Shoes,Clothing,Shoes,4974
+PROD0493,Sofa,Home,Sofa,648
+PROD0494,Mouse,Electronics,Mouse,4622
+PROD0495,Sofa,Home,Sofa,201
+PROD0496,Moisturizer,Beauty,Moisturizer,3537
+PROD0497,Mouse,Electronics,Mouse,4741
+PROD0498,Dumbbell,Sports,Dumbbell,920
+PROD0499,Monitor,Electronics,Monitor,2443
+PROD0500,Tennis Racket,Sports,Tennis Racket,2263
